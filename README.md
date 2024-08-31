@@ -8,3 +8,9 @@ My data science and analytics projects
 3. R programming - Pao Ying Chub
 4. Looker GA4 Dashboard
 5. Linear Regregression Model using caret
+
+## Contact Me
+reach out to me at toy@datarockie.com 
+
+## Image
+![Deadpool](https://www.denofgeek.com/wp-content/uploads/2020/11/webstory-deadpool-image06-1.jpg)
